@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "The IPBlacklist.AI Node library provides convenient access to the IPBlacklist.AI API. ",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IPBlacklistAI/ipblacklist-node"
+  },
   "scripts": {
     "test": "jest --env=node"
   },
